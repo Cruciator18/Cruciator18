@@ -9,11 +9,11 @@ I am a **B.Tech CSE Student** and aspiring **ML Engineer** who loves peeling bac
 
 ---
 
-### 🚀 Top "From Scratch" Implementations
+###  Top "From Scratch" Implementations
 
 I don't just use `.fit()`—I build the architecture. Here are my core projects:
 
-#### 🧠 Generative AI & Transformers
+####  Generative AI & Transformers
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Vision_Transformer_PaliGemma](https://github.com/Cruciator18/Vision_Transformer_PaliGemma)** | Full PyTorch implementation of the **PaliGemma** Vision Transformer from scratch. | PyTorch, Transformers |
@@ -21,7 +21,7 @@ I don't just use `.fit()`—I build the architecture. Here are my core projects:
 | **[GAN-in-PyTorch](https://github.com/Cruciator18/GAN-in-PyTorch)** | Implementation of Generative Adversarial Networks to generate synthetic data. | PyTorch, GANs |
 | **[gpt-decoder-only](https://github.com/Cruciator18/gpt-decoder-only)** | Built a GPT-style decoder-only transformer to understand attention mechanisms. | Python |
 
-#### 👁️ Computer Vision
+####  Computer Vision
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[YOLO-from-scratch](https://github.com/Cruciator18/YOLO-from-scratch)** | **Real-time object detection pipeline** trained entirely from scratch using the YOLOv11 Nano architecture. | Python, Custom CNN |
@@ -30,7 +30,7 @@ I don't just use `.fit()`—I build the architecture. Here are my core projects:
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
