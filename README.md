@@ -4,8 +4,8 @@
 
 I am a **B.Tech CSE Student** and aspiring **ML Engineer** who loves peeling back the layers of abstraction. My GitHub is dedicated to implementing complex architectures—from Object Detection to Generative AI—**entirely from scratch** to truly understand the mathematics behind them.
 
-- 🌱 I’m currently learning: **MLOps (Docker/Kubernetes)** and **Advanced Agentic Workflows**.
-- ⚡ Fun fact: I'm a huge *One Piece* fan (waiting for Luffy's next power-up!).
+-  I’m currently learning: **MLOps (Docker/Kubernetes)** and **Advanced Agentic Workflows**.
+- 
 
 ---
 
